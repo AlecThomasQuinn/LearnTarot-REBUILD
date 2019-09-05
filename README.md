@@ -13,7 +13,7 @@ It looks SO GOOD.
 
 She has aged quite well I must admit... beautiful.
 
-The site has a great designer, presumabley Joan Bunning.
+The site has a great designer, presumeably Joan Bunning.
 
 As an exercise in exercising my dormant elementary WEB DEV SKILLZ I wish to introduce this beautiful websiteof yesteryear into the modern era, gently, at first, with a re-imaging as the same static website but built using modern HTML, CSS and JS.
 
